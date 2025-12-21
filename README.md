@@ -149,7 +149,6 @@ The script generates specific artifacts corresponding to the original thesis res
     *   Population Curves (The classic "Growth, Decline, Abatement" curves).
     *   Propaganda Effort Levels.
     *   Troop Levels (showing the lag between Required and Actual troops).
-    *   **FIGURE 18:** A specific recreation of the "Troop Variation" graph from the thesis (Time 20-60), highlighting the oscillatory behavior of government troop adjustments due to delayed information.
 
 ## 7. Assumptions & Limitations
 *   **Closed System:** No external migration.
