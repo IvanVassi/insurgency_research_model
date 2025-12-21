@@ -29,7 +29,7 @@ The code is divided into three logical sectors, mirroring the thesis structure:
 
 ---
 
-## 3. Code Structure Analysis
+## 3. Code Structure
 
 ### 3.1 Dependencies
 *   `numpy`: For numerical operations and random number generation (simulating intelligence errors).
